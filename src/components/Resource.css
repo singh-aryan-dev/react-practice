@@ -1,0 +1,17 @@
+.resource{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+h1{
+    margin-left: 10px;
+}
+
+button{
+    margin-right: 5px;
+}
+
+.hidden {
+  display: none;
+}
