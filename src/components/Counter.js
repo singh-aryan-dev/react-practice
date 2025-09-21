@@ -13,16 +13,15 @@ function Counter() {
     console.log(num.current);
   }
 
-  return (
-    <>
-      <h1 style={{ color: "white", marginLeft: "10px" }}>
-        {number}         {num.current}
-      </h1>
-      <button style={{ marginLeft: "10px" }} onClick={handleClick}>
-        Add
-      </button>
-    </>
-  );
+  // return (
+  //   <>
+  //     <h1 style={{ color: "white", marginLeft: "10px" }}>
+  //       {number}         {num.current}
+  //     </h1>
+  //     <button style={{ marginLeft: "10px" }} onClick={handleClick}>
+  //       Add
+  //   </>
+  // )
 }
 export default Counter;
 //Fibonacci series
