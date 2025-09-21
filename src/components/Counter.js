@@ -23,5 +23,6 @@ function Counter() {
       </button>
     </>
   );
-} //
+}
 export default Counter;
+//Fibonacci series
